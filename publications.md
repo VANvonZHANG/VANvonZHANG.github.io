@@ -16,7 +16,22 @@ Lastest Update: 8th Aug 2023 &nbsp; 																																[中文论�
 
   Environmental Science: Atmospheres 3 (4), 708-716 	DOI: [10.1039/d2ea00168c](https://doi.org/10.1039/d2ea00168c)
 
-  <img src="(https://vanvonzhang.github.io//file//publications//posters//2022-1.png" class="floatpic" width="1024" height="500">
+  <details>
+  <summary>chart</summary>
+  <img src="file//publications//posters//2022-1.png">
+  <style>
+      summary {
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+      summary:hover {
+    background-color: #e6e6e6;
+  <style>
+  
+  
 
 ## Working Manuscript
 
@@ -24,7 +39,22 @@ Lastest Update: 8th Aug 2023 &nbsp; 																																[中文论�
 
   （in preparation）
 
-  <img src="(https://vanvonzhang.github.io//file//publications//posters//2023-1.png" class="floatpic" width="500" height="800">
+  <details>
+  <summary>chart</summary>
+  <img src="file//publications//posters//2023-1.png" >
+  <style>
+      summary {
+    padding: 10px;
+    background-color: #f2f2f2;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+      summary:hover {
+    background-color: #e6e6e6;
+  <style>
+
+  
 
 - Quantifying evolution of soot mixing state from transboundary transport of biomass burning emissions
 
